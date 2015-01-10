@@ -1,0 +1,16 @@
+## NPM Modules
+node_modules/
+
+## All Dist files
+dist/
+
+## Bower Files
+src/vendor/
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.log

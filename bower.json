@@ -1,0 +1,19 @@
+{
+  "name": "gulp-start",
+  "version": "1.0.0",
+  "homepage": "",
+  "authors": [
+    "Brian Hanson <brian@brianhanson.net>"
+  ],
+  "description": "Starting place for gulp projects",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "src/vendor",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
